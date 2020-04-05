@@ -4,5 +4,8 @@
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
-  "cordova": {}
+  "cordova": {},
+  "splashImmersive": true,
+  "splashFullScreen": true,
+  "linuxAndroidStudioPath": "/opt/google/android-studio/bin/studio.sh"
 }
